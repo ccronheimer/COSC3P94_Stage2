@@ -1,29 +1,22 @@
 {
   "files": {
-    "main.css": "/COSC3P94_Stage2/static/css/main.59921257.css",
-    "main.js": "/COSC3P94_Stage2/static/js/main.6791241e.js",
-    "static/js/787.cb1187e8.chunk.js": "/COSC3P94_Stage2/static/js/787.cb1187e8.chunk.js",
+    "main.css": "/COSC3P94_Stage2/static/css/main.7aa845fb.css",
+    "main.js": "/COSC3P94_Stage2/static/js/main.62a739ab.js",
     "static/media/houses.png": "/COSC3P94_Stage2/static/media/houses.591a0e643549f1c1c910.png",
     "static/media/neighbourhood.png": "/COSC3P94_Stage2/static/media/neighbourhood.aac6f7335515a329ed79.png",
     "static/media/party.png": "/COSC3P94_Stage2/static/media/party.959b448ec57e8011a901.png",
     "static/media/computer.png": "/COSC3P94_Stage2/static/media/computer.311f573872c756b10b62.png",
-    "static/media/agent4.png": "/COSC3P94_Stage2/static/media/agent4.be1c6ad10729a312dcf3.png",
-    "static/media/agent3.png": "/COSC3P94_Stage2/static/media/agent3.9a09590a4902b95b5da1.png",
-    "static/media/agent5.png": "/COSC3P94_Stage2/static/media/agent5.2d078ddb8023e081f5f7.png",
-    "static/media/agent2.png": "/COSC3P94_Stage2/static/media/agent2.9296da85b6b06072a184.png",
     "static/media/woods.png": "/COSC3P94_Stage2/static/media/woods.a35a2b4136e35360f1f0.png",
-    "static/media/agent1.png": "/COSC3P94_Stage2/static/media/agent1.b09fdedd9d2c964fc302.png",
+    "static/media/header.jpeg": "/COSC3P94_Stage2/static/media/header.983d8842b810a50b6e8d.jpeg",
     "static/media/cottage.png": "/COSC3P94_Stage2/static/media/cottage.49e0463f20d7751bbd07.png",
     "static/media/canMap.png": "/COSC3P94_Stage2/static/media/canMap.9e986b8b22991ccc38da.png",
     "static/media/apartment.png": "/COSC3P94_Stage2/static/media/apartment.0b3726f4bd18b8e8c673.png",
-    "static/media/logo.svg": "/COSC3P94_Stage2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/COSC3P94_Stage2/index.html",
-    "main.59921257.css.map": "/COSC3P94_Stage2/static/css/main.59921257.css.map",
-    "main.6791241e.js.map": "/COSC3P94_Stage2/static/js/main.6791241e.js.map",
-    "787.cb1187e8.chunk.js.map": "/COSC3P94_Stage2/static/js/787.cb1187e8.chunk.js.map"
+    "main.7aa845fb.css.map": "/COSC3P94_Stage2/static/css/main.7aa845fb.css.map",
+    "main.62a739ab.js.map": "/COSC3P94_Stage2/static/js/main.62a739ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.59921257.css",
-    "static/js/main.6791241e.js"
+    "static/css/main.7aa845fb.css",
+    "static/js/main.62a739ab.js"
   ]
 }
