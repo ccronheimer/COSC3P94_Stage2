@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/COSC3P94_Stage2/static/css/main.7aa845fb.css",
-    "main.js": "/COSC3P94_Stage2/static/js/main.62a739ab.js",
+    "main.css": "/COSC3P94_Stage2/static/css/main.00f06755.css",
+    "main.js": "/COSC3P94_Stage2/static/js/main.7a576301.js",
     "static/media/houses.png": "/COSC3P94_Stage2/static/media/houses.591a0e643549f1c1c910.png",
     "static/media/neighbourhood.png": "/COSC3P94_Stage2/static/media/neighbourhood.aac6f7335515a329ed79.png",
     "static/media/party.png": "/COSC3P94_Stage2/static/media/party.959b448ec57e8011a901.png",
@@ -12,11 +12,11 @@
     "static/media/canMap.png": "/COSC3P94_Stage2/static/media/canMap.9e986b8b22991ccc38da.png",
     "static/media/apartment.png": "/COSC3P94_Stage2/static/media/apartment.0b3726f4bd18b8e8c673.png",
     "index.html": "/COSC3P94_Stage2/index.html",
-    "main.7aa845fb.css.map": "/COSC3P94_Stage2/static/css/main.7aa845fb.css.map",
-    "main.62a739ab.js.map": "/COSC3P94_Stage2/static/js/main.62a739ab.js.map"
+    "main.00f06755.css.map": "/COSC3P94_Stage2/static/css/main.00f06755.css.map",
+    "main.7a576301.js.map": "/COSC3P94_Stage2/static/js/main.7a576301.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa845fb.css",
-    "static/js/main.62a739ab.js"
+    "static/css/main.00f06755.css",
+    "static/js/main.7a576301.js"
   ]
 }
